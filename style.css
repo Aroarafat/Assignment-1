@@ -58,9 +58,6 @@ section
     line-height:120px;
 }
 
-
-
-
 .recipie
 {
     width: 50%;
@@ -79,7 +76,24 @@ section
     border-radius:15px;
     padding-top: 15px;
 }
-
+ #fourth-section
+ {
+   width: 75%;
+   display: flex;
+   margin-left: 15%;
+   margin-right: 40%;
+   margin-top: 10%;
+   margin-bottom: 10%;
+   box-shadow: 8px 8px 8px 8px gray;
+ }
+ #fourth-section
+ {
+       font-size: 20px;
+ }
+ .fourth
+ {
+     padding-left: 15%;
+ }
 footer h1
  {
     text-align: center;
