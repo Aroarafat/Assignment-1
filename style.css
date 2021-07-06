@@ -1,7 +1,7 @@
 body 
 {
-      font-family: 'Encode Sans SC', sans-serif;
-      margin: 0%;
+    font-family: 'Encode Sans SC', sans-serif;
+     margin: 0%;
     
 }
 .skip-color-changed
@@ -21,9 +21,8 @@ section
 {
     width: 50%;
     padding-left: 2%;
-   font-size: 20px ;
-   line-height: 40px;
-
+    font-size: 20px ;
+    line-height: 40px;
 }
 .half-width img
 {
@@ -41,19 +40,27 @@ section
 
 .order
 {
- line-height:150px;
+    line-height:150px;
 }
-.third-section
-{
-    text-align: center;
-}
-
 
 .banner
 {
     background-image: url(images/shapes/7.png);
 
 }
+
+.third-section
+{
+      text-align: center;
+}
+.recipis-height 
+{
+    line-height:120px;
+}
+
+
+
+
 .recipie
 {
     width: 50%;
@@ -64,36 +71,24 @@ section
     padding-bottom: 5%;
     margin-left: 10px;
     margin-right:10px;
-
-
 }
 .recipi-image
-{
-    
-width:250px;
-height:150px;
-border-radius:15px;
-padding-top: 15px;
+{    
+    width:250px;
+    height:150px;
+    border-radius:15px;
+    padding-top: 15px;
 }
 
 footer h1
  {
     text-align: center;
     line-height:100px
-
 }
-footer h4
-{
-    text-align: center;
-  
-}
-
-
-footer p {
+footer p 
+ {
     text-align: center;
 }
-
-
 .color
 {
     color: orange;
