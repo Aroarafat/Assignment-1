@@ -8,6 +8,10 @@ body
 {
     color: blue;
 }
+.recipe-color-changed
+{
+    color: blue;
+}
 section
 {
    display: flex;
@@ -35,6 +39,42 @@ section
 {
     background-image: url(images/shapes/7.png);
 
+}
+.recipie
+{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+    padding-bottom: 5%;
+    margin-left: 10px;
+    margin-right:10px;
+
+
+}
+.recipi-image
+{
+    
+width:250px;
+height:150px;
+border-radius:15px;
+padding-top: 15px;
+}
+
+footer h1
+ {
+    text-align: center;
+}
+
+
+footer p {
+    text-align: center;
+}
+
+.color
+{
+    color: orange;
 }
 
 
