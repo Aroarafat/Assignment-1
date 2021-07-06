@@ -99,10 +99,7 @@ footer h1
     text-align: center;
     line-height:100px
 }
-footer p 
- {
-    text-align: center;
-}
+
 .color
 {
     color: orange;
@@ -114,10 +111,20 @@ footer
 
 .six{
     font-size:70px;
-    color: orange;
+    background-color:palevioletred ;
+    border-radius: 30px;
+    
 }
 .eight{
     font-size: 70px;
-    color:orange;
+    background-color:palevioletred ;
+    border-radius: 30px;
+    
 }
 
+   footer D:hover
+   {
+    background-color: yellow;
+    margin-left: 400px;
+
+  }
