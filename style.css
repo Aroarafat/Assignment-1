@@ -21,6 +21,9 @@ section
 {
     width: 50%;
     padding-left: 2%;
+   font-size: 20px ;
+   line-height: 40px;
+
 }
 .half-width img
 {
@@ -30,11 +33,22 @@ section
 {
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
-    padding: 10px 40px;
-    border-radius: 10px;
+    padding: 10px 20px;
+    border-radius: 30px;
     font-weight: 700 ;
     color: white;
 }
+
+.order
+{
+ line-height:150px;
+}
+.third-section
+{
+    text-align: center;
+}
+
+
 .banner
 {
     background-image: url(images/shapes/7.png);
@@ -65,12 +79,20 @@ padding-top: 15px;
 footer h1
  {
     text-align: center;
+    line-height:100px
+
+}
+footer h4
+{
+    text-align: center;
+  
 }
 
 
 footer p {
     text-align: center;
 }
+
 
 .color
 {
